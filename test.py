@@ -1,1 +1,1 @@
-print("goodbye world")
+print("this is another string")
